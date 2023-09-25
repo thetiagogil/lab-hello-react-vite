@@ -23,6 +23,7 @@ function App() {
             <br /> the most popular frontend library,
             <br /> and becom a super Ninja developer.
           </p>
+          <button>Awesome!</button>
         </section>
       </section>
 
